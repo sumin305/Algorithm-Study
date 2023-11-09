@@ -24,5 +24,4 @@ for i in range(365):
 
 area += (j * max_height)
 
-print(calendar)
 print(area)
